@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+const { useState, useEffect } = React;
 
 const MentalHealthApp = () => {
   const [activeTab, setActiveTab] = useState('challenges');
@@ -1482,4 +1482,7 @@ const MentalHealthApp = () => {
   );
 };
 
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+            
 export default MentalHealthApp;
