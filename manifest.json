@@ -1,26 +1,9 @@
 {
-    "name": "Jornada da Saúde Mental",
-    "short_name": "Saúde Mental",
-    "description": "Aplicativo de bem-estar mental com desafios diários, autocuidado e chat com IA",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#F0F9FF",
-    "theme_color": "#6366F1",
-    "orientation": "portrait",
-    "icons": [
-      {
-        "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧘</text></svg>",
-        "sizes": "192x192",
-        "type": "image/svg+xml",
-        "purpose": "any maskable"
-      },
-      {
-        "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧘</text></svg>",
-        "sizes": "512x512",
-        "type": "image/svg+xml",
-        "purpose": "any maskable"
-      }
-    ],
-    "categories": ["health", "lifestyle", "wellness"],
-    "screenshots": []
-  }
+  "name": "Jornada da Saúde Mental",
+  "short_name": "Saúde Mental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0F9FF",
+  "theme_color": "#6366F1",
+  "icons": []
+}
